@@ -21,7 +21,7 @@
 ##
 
 ## Sobre mim
-- 👨‍🎓 Estudante de Banco de Dados, atualmente estou cursando o 2° semestre.
+- 👨‍🎓 Estudante de Banco de Dados
 
 - 🌱 Me desenvolvendo em Java e PostegreSQL
 
