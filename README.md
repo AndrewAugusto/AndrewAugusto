@@ -4,7 +4,7 @@
   <a href="https://github.com/AndrewAugusto">
   <img 
     align="center" 
-    height="158" 
+    height="155" 
     src="https://github-readme-stats.vercel.app/api?username=AndrewAugusto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"
   />
   <img 
