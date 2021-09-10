@@ -9,7 +9,7 @@
   />
   <img 
     align="center"
-    height="165" 
+    height="160" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAugusto&layout=compact&langs_count=7&theme=blue-green"
   />
  </div>
