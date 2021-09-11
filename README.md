@@ -41,7 +41,7 @@
   <img title="Pycharm" height="60" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
 </div>
   
-## Contact :iphone:
+## Contato :iphone:
 <p align="center">
     <a href="mailto:mailto:andrewaugustodiass@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mailto:andrewaugustodiass@gmail.com">
