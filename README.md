@@ -1,5 +1,14 @@
 ## Olá! Eu sou o Andrew Augusto <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
   
+## Sobre mim
+- 👨‍🎓 Estudante de Banco de Dados
+
+- 🏢 Faculdade FATEC - Prof. Jessen Vidal
+
+- 🌱 Me desenvolvendo em Java e PostegreSQL
+
+##
+  
 <div style="display: inline_block">
   <a href="https://github.com/AndrewAugusto">
   <img 
@@ -20,10 +29,6 @@
   
 ##
 
-## Sobre mim
-- 👨‍🎓 Estudante de Banco de Dados
-
-- 🌱 Me desenvolvendo em Java e PostegreSQL
 
 ## Skills :nerd_face:
 <div style="display: inline_block"><br>
