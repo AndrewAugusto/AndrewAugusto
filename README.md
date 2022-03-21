@@ -5,7 +5,7 @@
 
 - 🏢 Faculdade FATEC - Prof. Jessen Vidal
 
-- 🌱 Me desenvolvendo em Java e PostegreSQL
+- 🌱 Me desenvolvendo em Java, C# e NodeJs
 
 ##
   
