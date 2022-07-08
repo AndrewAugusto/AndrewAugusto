@@ -1,5 +1,5 @@
-## Olá! Eu sou o Andrew Augusto <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-  
+## Olá! Eu sou o Andrew Augusto </h2>
+ 
 ## Sobre mim
 - 👨‍🎓 Estudante de Banco de Dados
 
