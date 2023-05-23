@@ -1,13 +1,14 @@
 ## Olá! Eu sou o Andrew Augusto </h2>
  
 ## Sobre mim
-- 👨‍🎓 Estudante de Banco de Dados
 
-- 🏢 Faculdade FATEC - Prof. Jessen Vidal
+#### Sou um Desenvolvedor Full Stack com vasta experiência em C# e JavaScript. Tenho um conhecimento aprofundado em NodeJS e ReactJS, o que me permite construir aplicações altamente eficientes e escaláveis. Tenho uma verdadeira paixão por entregar soluções que aprimoram a experiência do usuário, e estou constantemente buscando novas tecnologias e tendências para aprimorar meu trabalho.
 
-- 🌱 Me desenvolvendo em JavaScript, NodeJS e Pyhton
+#### - 👨‍🎓 Graduando no curso de Banco de Dados e apaixonado por programação
 
-- 👦🏼 Atualmente trabalhando como Consultor SAP Business One / New Product
+#### - 🌱 Me desenvolvendo em JavaScript, NodeJS e Python
+
+#### - 👦🏼 Atualmente trabalhando como Consultor SAP Business One / New Product
 
 ##
   
