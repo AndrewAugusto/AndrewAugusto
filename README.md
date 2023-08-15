@@ -4,7 +4,7 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
-<h1 align="left"> Olá, eu sou Andrew Augusto😃</h1>
+<h1 align="left"> Olá, Sou Andrew Augusto😃</h1>
  
 #### Sou um Desenvolvedor Full Stack com ampla experiência em C# e JavaScript. Possuo um conhecimento aprofundado em NodeJS e ReactJS, o que me permite criar aplicações altamente eficientes e escaláveis. <br><br> Tenho uma verdadeira paixão por entregar soluções que aprimoram a experiência do usuário e estou sempre em busca de novas tecnologias e tendências para aprimorar ainda mais o meu trabalho. <br><br> Atualmente, estou focado em explorar tecnologias e ferramentas que possam potencializar o desenvolvimento de software e agregar valor aos projetos em que estou envolvido. <br><br> Estou disponível para novas oportunidades e ansioso para contribuir com o sucesso dos projetos com os quais me envolver.
 
