@@ -7,7 +7,7 @@
 <h1 align="left"> Olá, Sou Andrew Augusto😃</h1>
  
 #### Como um Desenvolvedor Full Stack me especializo em criar soluções Inovadoras e escaláveis 
-####Com experiência prática, domino a criação de soluções web robustas e adaptáveis. Minha expertise abrangente engloba toda a pilha de desenvolvimento, desde o front-end até o back-end, me permitindo construir projetos completos e otimizados.
+#### Com experiência prática, domino a criação de soluções web robustas e adaptáveis. Minha expertise abrangente engloba toda a pilha de desenvolvimento, desde o front-end até o back-end, me permitindo construir projetos completos e otimizados.
 
 #### Minha paixão é entregar projetos de alta qualidade que supere as expectativas e impulsione o sucesso dos projetos. Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em realidade e estou sempre em busca de soluções inovadoras que agreguem valor aos meus clientes.
 
